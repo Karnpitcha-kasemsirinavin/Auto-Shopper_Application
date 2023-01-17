@@ -1,0 +1,81 @@
+name: app_draft1
+description: A new Flutter project.
+
+publish_to:
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  flutter_native_splash: ^2.2.11
+  flutter_launcher_icons: ^0.10.0
+  firebase_core: ^2.3.0
+  firebase_database: ^10.0.6
+  cloud_firestore: ^4.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon.png"
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/logo.png
+    - assets/home_bg.jpg
+    - assets/box_bg.jpg
+    - assets/smile.png
+
+      #categories img
+    - assets/itemtype_bg/vegetables_bg.jpg
+    - assets/itemtype_bg/bakery_bg.jpg
+    - assets/itemtype_bg/dairy_bg.jpg
+    - assets/itemtype_bg/freeze_bg.jpg
+    - assets/itemtype_bg/meats_bg.jpg
+    - assets/itemtype_bg/thing_bg.jpg
+
+      #items img
+    - assets/item_img/apple.png
+    - assets/item_img/banana.png
+    - assets/item_img/beef.png
+    - assets/item_img/cake.png
+    - assets/item_img/carrot.png
+    - assets/item_img/cheese.png
+    - assets/item_img/chicken.png
+    - assets/item_img/chocolate.png
+    - assets/item_img/cookie.png
+    - assets/item_img/croissant.png
+    - assets/item_img/donut.png
+    - assets/item_img/egg.png
+    - assets/item_img/frenchfries.png
+    - assets/item_img/ice_cream.png
+    - assets/item_img/milk.png
+    - assets/item_img/pen.png
+    - assets/item_img/pill.png
+    - assets/item_img/pizza.png
+    - assets/item_img/pork.png
+    - assets/item_img/pretzel.png
+    - assets/item_img/seafood.png
+    - assets/item_img/shampoo.png
+    - assets/item_img/snack.png
+    - assets/item_img/soap.png
+    - assets/item_img/teddy_bear.png
+    - assets/item_img/toilet_paper.png
+    - assets/item_img/tomato.png
+    - assets/item_img/toothbrush.png
+

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "612281363431",
+    "firebase_url": "https://auto-shopper-e8b9a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "auto-shopper-e8b9a",
+    "storage_bucket": "auto-shopper-e8b9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612281363431:android:4d1018977be69afdbfab42",
+        "android_client_info": {
+          "package_name": "com.example.app_draft1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612281363431-1cit6kvc1c6vbr9r3g4jfhid9gsdrf4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPmFEEbjX9ha3LqSVIdgKcz2VDGzz81Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612281363431-1cit6kvc1c6vbr9r3g4jfhid9gsdrf4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
